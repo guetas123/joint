@@ -28,7 +28,7 @@
 :root {
     --h1-font: 'Poppins', sans-serif;
     --h1-size: 4.5rem;
-    --h1-weight: 900;
+    --h1-weight: 700;
     
     --h2-font: 'Poppins', sans-serif;
     --h2-size: 3rem;
@@ -47,8 +47,8 @@
     --hero-bg-color: #111117;
     --footer-brand-height: 80px;
 
-    --primary-color: #058283;
-    --secondary-color: #00a6a6;
+    --primary-color: #070d4e;
+    --secondary-color: #841717;
     
     --white-color: #ffffff;
     --black-color: #000007;
